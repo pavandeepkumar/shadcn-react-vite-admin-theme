@@ -1,3 +1,4 @@
+https://react-admin-panel-eta.vercel.app/
 # React Vite ShadCN Admin Template
 
 A modern, full-featured admin panel template built with the latest React ecosystem technologies. Get up and running with a production-ready admin dashboard in seconds.
