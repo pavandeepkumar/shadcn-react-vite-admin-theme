@@ -452,16 +452,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: your-email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/create-react-vite-shadcn-template/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/create-react-vite-shadcn-template/discussions)
+- 📧 Email: your-pavandeepkumarmlk@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/pavandeepkumar/shadcn-react-vite-admin-theme/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/pavandeepkumar/shadcn-react-vite-admin-theme/discussions)
 
 ## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/create-react-vite-shadcn-template)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/create-react-vite-shadcn-template)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/create-react-vite-shadcn-template)
+![GitHub stars](https://img.shields.io/github/stars/pavandeepkumar/shadcn-react-vite-admin-theme)
+![GitHub forks](https://img.shields.io/github/forks/pavandeepkumar/shadcn-react-vite-admin-theme)
+![GitHub issues](https://img.shields.io/github/issues/pavandeep/shadcn-react-vite-admin-theme)
 
 ---
 
-**Built with ❤️ by [Your Name](https://github.com/yourusername)**
+**Built with ❤️ by [Pavandeep](https://github.com/pavandeepkumar)**
