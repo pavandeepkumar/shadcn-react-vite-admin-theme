@@ -1,0 +1,17 @@
+{
+  "name": "create-react-vite-shadcn-template",
+  "version": "1.0.1",
+  "description": "Create a React + Vite + shadcn UI app easily",
+  "bin": {
+    "create-react-template": "./index.js"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "shadcn",
+    "template",
+    "cli"
+  ],
+  "author": "Pavandeep Kumar",
+  "license": "MIT"
+}
